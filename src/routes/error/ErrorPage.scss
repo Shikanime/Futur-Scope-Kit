@@ -1,0 +1,33 @@
+/**
+ * Futur Scope Kit
+ *
+ * Copyright © 2018-present Deva All rights reserved.
+ *
+ * This source code is licensed under the license found in the
+ * LICENSE.txt file in the root directory of this source tree.
+ */
+
+html {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 2rem;
+  height: 100%;
+  font-family: sans-serif;
+  text-align: center;
+  color: #888;
+}
+
+body {
+  margin: 0;
+}
+
+h1 {
+  font-weight: 400;
+  color: #555;
+}
+
+pre {
+  white-space: pre-wrap;
+  text-align: left;
+}
